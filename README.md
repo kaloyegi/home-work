@@ -7,6 +7,5 @@
 * Высокая скорость поиска
 * Низкая цена
 
-_Логотип_:
 ![](https://github.com/kaloyegi/home-work/blob/main/logo.png)
 
